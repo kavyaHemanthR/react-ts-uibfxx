@@ -1,0 +1,25 @@
+/* p {
+  color: #bf1650;
+}
+
+p::before {
+  display: inline;
+  content: "⚠ ";
+} */
+
+.alignStaight {
+  display: flex;
+  align-items: center;
+}
+
+p {
+  padding-left: 10px;
+  font-weight: 50;
+  text-decoration: underline;
+  color: blue;
+}
+
+.center {
+  margin-top: 10%;
+  text-align: center;
+}
